@@ -1,0 +1,22 @@
+{
+  "name": "botlfe",
+  "version": "0.0.1",
+  "description": "Bot LFE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motard80/BotLFE.git"
+  },
+  "author": "LFE by Motard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motard80/BotLFE/issues"
+  },
+  "homepage": "https://github.com/Motard80/BotLFE#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
